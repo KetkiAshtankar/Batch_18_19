@@ -364,6 +364,6 @@ print(order.calculate_total())
 | Static Method        | Utility method           |
 | Inheritance          | Code reuse               |
 | Multiple Inheritance | Multiple parents         |
-| Operator Overloading | Custom operator behavior |
+
 
 ---
