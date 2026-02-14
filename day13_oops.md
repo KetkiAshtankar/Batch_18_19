@@ -1,4 +1,4 @@
----
+
 # 🟣 Introduction to Python OOPS
 
 ## 🔹 What is OOPS?
@@ -11,7 +11,7 @@ It is a way of writing code using:
 * Properties (data)
 * Behavior (functions)
 
----
+
 
 ## 🏠 Real Life Analogy
 
